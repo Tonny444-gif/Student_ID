@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StudentCard</string>
+    <string name="student_name">OKOL BENARD</string>
+    <string name="programme">BSc in Information Technology</string>
+    <string name="reg_number">24/2/314/W/403</string>
+    <string name="issue_date">01/02/2026</string>
+    <string name="expiry_date">01/02/2029</string>
+</resources>
